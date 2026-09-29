@@ -1,0 +1,6 @@
+{
+  "name": "Kevin Shaffer's Auto Body & Collision Repair",
+  "description": "Top-rated auto body and collision repair shop in Oakland, MD. Expert frame straightening, factory color matching, dent repair, and direct insurance claims assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
